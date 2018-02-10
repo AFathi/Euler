@@ -1,4 +1,4 @@
-# Euler
+# Euler_Swift
 
 Euler uses [custom operators in the "Math Symbols"](https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/LexicalStructure.html#//apple_ref/doc/uid/TP40014097-CH30-XID_934) character set to implement functions using traditional mathematical notation.
 
